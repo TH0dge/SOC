@@ -37,7 +37,8 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 linux syslog auth fail![image](https://github.com/TH0dge/SOC/assets/132714490/c7769de1-f434-4541-aa1e-40f1d13ddbe7)
 
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![Windows RDP/SMB Auth Failures]![image](https://github.com/TH0dge/SOC/assets/132714490/cd9038d7-7523-45cd-a21f-704731c03bb8)
+
 
 ## Metrics Before Hardening / Security Controls
 
