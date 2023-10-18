@@ -12,7 +12,7 @@ In this project, I build a mini honeynet in Azure and ingest log sources from va
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![windows-rdp-auth-fail](https://github.com/TH0dge/SOC/assets/132714490/8c3cac8c-eb71-416e-8575-c9c1a360a956)
+![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
 
 
 ## Architecture After Hardening / Security Controls
@@ -34,7 +34,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 ![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
-![image](https://github.com/TH0dge/SOC/assets/132714490/c7769de1-f434-4541-aa1e-40f1d13ddbe7)
+linux syslog auth fail![image](https://github.com/TH0dge/SOC/assets/132714490/c7769de1-f434-4541-aa1e-40f1d13ddbe7)
 
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
 
